@@ -2032,3 +2032,15 @@
     gap: 16px 32px;
   }
 }
+body {
+    font-size: 16px;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+    .container {
+        flex-direction: column;
+    }
+}
