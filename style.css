@@ -1,4 +1,7 @@
-
+body{
+     transform: scale(0.6);
+            transform-origin: top left;
+}
 .hax {
     align-self: stretch;
     height: 56px;
