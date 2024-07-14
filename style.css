@@ -29,7 +29,7 @@ body{
 }
 
 .navbar h1:hover{
-    ear-gradient(267deg, #DA7C2background: lin5 0.36%, #B923E1 106.5%);
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
