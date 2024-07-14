@@ -382,6 +382,11 @@ body{
     transform: scale(1.05);
 }
 
+.myrenders-showmore p{
+    text-deco
+    color: white;
+}
+
 .contact{
     display: flex;
     flex-direction: column;
