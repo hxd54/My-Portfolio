@@ -1,6 +1,7 @@
 
 html{
     scrollbar-width: thin;
+    scroll-behavior: smooth;
 }
 *{
     margin: 0;
@@ -43,7 +44,10 @@ body{
     gap: 60px;
     cursor: pointer;
 }
-
+.nav-menu li a{
+    text-decoration: none;
+    color: white;
+}
 .nav-menu li:hover{
     background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 106.5%);
     background-clip: text;
@@ -61,7 +65,10 @@ body{
     cursor: pointer;
     transition: 0.5s;
 }
-
+.nav-talk a{
+    text-decoration: none;
+    color: white;
+}
 .nav-talk:hover{
     transform: scale(1.05);
 }
@@ -120,6 +127,10 @@ body{
     cursor: pointer;
 }
 
+.page-1-talk a{
+    text-decoration: none;
+    color: white;
+}
 .page-1-talk:hover{
     border: 2px solid white;
 }
