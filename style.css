@@ -170,7 +170,7 @@ body{
 
 .about-left img{
     border-radius: 50px;
-    width: 366.67px;
+    width: 470px;
     height: 366.67px;
 }
 
@@ -382,7 +382,7 @@ body{
     transform: scale(1.05);
 }
 
-.myrenders-showmore p{
+.myrenders-showmore a{
     text-decoration: none;
     color: white;
     
